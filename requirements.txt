@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+streamlit
+requests
+pytesseract
+pdf2image
+Pillow
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+faiss-cpu
+openai
